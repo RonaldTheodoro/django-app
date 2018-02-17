@@ -106,3 +106,4 @@ venv.bak/
 
 *.lock
 *.sqlite3
+*.txt
